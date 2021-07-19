@@ -30,7 +30,7 @@ const FullTweet:FC<FullTweetProps> = (props:FullTweetProps):ReactElement => {
   return (
     <>
       {isTweetLoaded
-        ? (<Tweet key={tweet._id}  user={tweet.user} text={tweet.text}/>)
+        ? (<Tweet key={tweet.id}  user={tweet.user} text={tweet.text}/>)
         : (<div className={classes.progress}><CircularProgress/></div>)
       }
     </>

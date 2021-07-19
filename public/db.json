@@ -2,7 +2,7 @@
   "tweets": [
     {
       "id": 1,
-      "_id": "6097b2b07328e76799a6fc11",
+      "_id": "6097b2b07328e76799a6sdfc11",
       "text": "Оказывается, в Петербурге сохранилось трассировка некоторых улиц со времён шведской крепости\n\nЕсли вынести за скобки переименования улиц, их расширения и спрямления, можно утверждать, что такие улицы существуют до сих пор․",
       "user": {
         "fullname": "Arkadiy Gershman",
@@ -12,7 +12,7 @@
     },
     {
       "id": 2,
-      "_id": "6097b2b07328e76799a6fc57",
+      "_id": "6097b2b07328e76799awd6fc57",
       "text": "Excepteur mollit voluptate qui mollit deserunt ut. Sint aute ullamco mollit incididunt. Qui fugiat labore eiusmod incididunt sint consectetur do. Ex aliquip consequat duis ex nostrud proident est. Ea eiusmod dolore cillum nulla ea cillum ex nulla occaecat enim sit ut.",
       "user": {
         "fullname": "Ofelia Prince",
@@ -21,49 +21,12 @@
       }
     },
     {
-      "_id": "6nz6y5tfptw",
-      "text": "test 5",
+      "_id": "1jsigqjmlcq",
+      "text": "fff",
       "user": {
         "fullname": "Alexey Polyanskiy",
         "username": "qivass",
-        "avatarUrl": "https://source.unsplash.com/random/200x20013584.79999999702"
-      },
-      "id": 3
-    },
-    {
-      "_id": "r0vvtaynyk",
-      "text": "ererer",
-      "user": {
-        "fullname": "Alexey Polyanskiy",
-        "username": "qivass",
-        "avatarUrl": "https://source.unsplash.com/random/200x2004179.30000000447"
-      }
-    },
-    {
-      "_id": "q4b9attpfs",
-      "text": "dvdvdv",
-      "user": {
-        "fullname": "Alexey Polyanskiy",
-        "username": "qivass",
-        "avatarUrl": "https://source.unsplash.com/random/200x20011236.60000000149"
-      }
-    },
-    {
-      "_id": "azmqrgbptdn",
-      "text": "dfdfdf",
-      "user": {
-        "fullname": "Alexey Polyanskiy",
-        "username": "qivass",
-        "avatarUrl": "https://source.unsplash.com/random/200x20018739.19999999553"
-      }
-    },
-    {
-      "_id": "52px5ri9302",
-      "text": "vdvvdvdvdfvdfvdfvdfv",
-      "user": {
-        "fullname": "Alexey Polyanskiy",
-        "username": "qivass",
-        "avatarUrl": "https://source.unsplash.com/random/200x2009831.39999999851"
+        "avatarUrl": "https://source.unsplash.com/random/200x2003642.60000000149"
       }
     }
   ],
